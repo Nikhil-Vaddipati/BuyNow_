@@ -1,1 +1,1 @@
-web: gunicorn new_project_app.wsgi
+web: gunicorn shoppinglyx.wsgi
